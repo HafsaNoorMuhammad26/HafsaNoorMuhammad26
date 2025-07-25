@@ -30,16 +30,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HafsaNoorMuhammad26&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafsaNoorMuhammad26&layout=compact&theme=tokyonight" width="47%" />
-</p>
-
-
----
-
 ### 💬 Get In Touch
 
 Feel free to reach out if you want to collaborate on a project, need help, or just want to chat about tech!
