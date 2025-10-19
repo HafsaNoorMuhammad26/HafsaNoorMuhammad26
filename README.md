@@ -10,8 +10,8 @@
 
 - 🎓 Final Year BS Software Engineering Student @ UIT University  
 - 💼 Junior Data Analyst 
-- 🌱 Currently learning: **Machine Learning**, **Computer Vision**, **Advanced Django Projects**
-- 🛠️ Building: Personal Finance Tracker, Online Learning Platform, Recipe Sharing Platform and others
+- 🌱 Currently learning: **Machine Learning**, **Computer Vision**, **NLP**, **FastAPI**, **Advanced Django Projects**
+- 🛠️ Building: Personal Finance Tracker with Django, Resume Screener using Streamlit Python, Emotion Detection using OpenCV, Recipe Sharing Platform and others
 - 📫 Let's connect: **[LinkedIn](https://www.linkedin.com/in/hafsanoormuhammad26)** | **[GitHub](https://github.com/HafsaNoorMuhammad26)**
 
 ---
@@ -20,7 +20,7 @@
 
 **Languages & Libraries**
 - Python, JavaScript, HTML5, CSS 
-- Pandas, NumPy, OpenCV  
+- Pandas, NumPy, OpenCV and more
 - SQL (MySQL, PostgreSQL), Excel
 
 **Frameworks & Tools**
