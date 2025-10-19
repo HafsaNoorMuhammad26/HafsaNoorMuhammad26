@@ -49,8 +49,8 @@
 
 ## 📫 Contact
 - 📧 **[Email](hafsanoormuhammad26@gmail.com)**
-- 🔗**[LinkedIn](https://www.linkedin.com/in/hafsanoormuhammad26)**
-- 💻**[GitHub](https://github.com/HafsaNoorMuhammad26)**
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/hafsanoormuhammad26)**
+- 💻 **[GitHub](https://github.com/HafsaNoorMuhammad26)**
 
 ---
 
