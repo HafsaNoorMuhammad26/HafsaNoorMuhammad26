@@ -49,7 +49,7 @@
 
 ## 📫 Contact
 - 📧 **[Email](hafsanoormuhammad26@gmail.com)**
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/hafsanoormuhammad26)**
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/hafsa-noor-muhammad-67b96331a/)**
 - 💻 **[GitHub](https://github.com/HafsaNoorMuhammad26)**
 
 ---
